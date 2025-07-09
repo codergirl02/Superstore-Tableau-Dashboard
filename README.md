@@ -24,5 +24,5 @@ You can view the published version on [Tableau Public](https://public.tableau.co
 
 This dashboard was created by Mrunmayee Hasabnis, a data enthusiast with experience in retail IT and a strong interest in data analytics and visualization
 
-Connect with me on www.linkedin.com/in/mrunmayee-hasabnis
+Connect with me on (www.linkedin.com/in/mrunmayee-hasabnis)
 
