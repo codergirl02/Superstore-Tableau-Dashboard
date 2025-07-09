@@ -18,7 +18,7 @@ An interactive Tableau dashboard built using the Superstore dataset to analyze s
 
 ## 🌐 View Dashboard Online
 
-You can view the published version on [Tableau Public](https://public.tableau.com/app/profile/mrunmayee.h2067/viz/SuperstoreDashbord_17519843092330/Dashboard2)
+You can view the published version on [Tableau Public](https://public.tableau.com/app/profile/mrunmayee.h2067/viz/SuperstoreDashbord_17519843092330/SuperstoreAnalyticsDashboard)
 
 ## 🙋‍♂️ About Me
 
